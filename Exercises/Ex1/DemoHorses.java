@@ -7,7 +7,7 @@ public class DemoHorses
     {
         Horse horse1 = new Horse();
         RaceHorse horse2 = new RaceHorse();
-        horse1.setNameHorse("Jimmy");
+        horse1.setNameHorse("James");
         horse1.setColor("Black & White");
         horse1.setBirthYear(1993);
         horse2.setNameHorse("Missy Horsey");
